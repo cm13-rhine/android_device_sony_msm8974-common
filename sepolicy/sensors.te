@@ -1,2 +1,0 @@
-# Connect to /dev/socket/tad
-unix_socket_connect(sensors, tad, tad)
